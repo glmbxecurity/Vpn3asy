@@ -18,7 +18,7 @@ Muy sencillo,
 
 El hecho de ejecutar con permisos de administrador es que se requiere para realizar la conexión VPN, y también se requiere para realizar cambios en Iptables (Vital para la conexión segura)
 
-##Capturas del script
+## Capturas del script
 
 <img src="./menu.jpg">
 

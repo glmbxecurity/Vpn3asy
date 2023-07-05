@@ -20,4 +20,8 @@ El hecho de ejecutar con permisos de administrador es que se requiere para reali
 
 ##Capturas del script
 
-<img src=".//">
+<img src="./2-1.jpg">
+
+<img src="./2-1-1.jpg">
+
+<img src="./2-2.jpg">
